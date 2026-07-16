@@ -131,7 +131,7 @@ export default function Home() {
               <span /> Private beta open
             </div>
             <h1>
-              Training that changes
+              Training that changes{" "}
               <br />
               <em>when your life does.</em>
             </h1>
